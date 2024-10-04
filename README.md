@@ -4,3 +4,5 @@ The notebooks to use are:
 - mri_classifier_ConvNext.ipynb
 - mri_classifier_swin.ipynb
 - mri_classifier_vit.ipynb
+
+create a folder called 'graphs' so all plot could be saved there in the main folder
