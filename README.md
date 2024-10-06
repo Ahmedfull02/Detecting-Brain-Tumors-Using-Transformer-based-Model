@@ -9,4 +9,3 @@ create a folder called 'graphs' so all plot can be saved there in the main folde
 
 The link of dataset is:
 https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c?sort=published
-![Uploading image.png…]()
